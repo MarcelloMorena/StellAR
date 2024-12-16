@@ -80,9 +80,9 @@ Hold space - Move right hand
 
 Left click - Pinch hands (for interacting)
 
-t - Toggle left hand lock
+T - Toggle left hand lock
 
-y - Toggle right hand lock
+Y - Toggle right hand lock
 
 Alt - Rotate left hand
 
